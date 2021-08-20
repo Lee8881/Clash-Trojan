@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇯🇵 日本, server: speed888.xyz, port: 443, type: trojan, password: GMCDwosu, sni: speed888.xyz, skip-cert-verify: false}
+  - {name: 🇯🇵 日本, server: speed888.xyz, port: 443, type: trojan, password: Qwe123123..., sni: speed888.xyz, skip-cert-verify: false}
 proxy-groups:
   - name: Proxies
     type: select
